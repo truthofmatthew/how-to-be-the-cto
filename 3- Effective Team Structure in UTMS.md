@@ -51,9 +51,21 @@ A middle team bridges the gap between business needs and technical implementatio
 #### Example Scenario
 Imagine you run a software company with multiple projects. You can have a tech-oriented team focusing on infrastructure, ensuring that all products use a consistent and optimized technical base. Meanwhile, product-oriented teams focus on specific apps or services, tailoring them to client needs. A middle team of business analysts coordinates between these groups, ensuring that business goals align with technical capabilities.
 
+### Team Structures
+
+| Aspect                       | Tech-Oriented Teams                   | Product-Oriented Teams              | Middle Teams                          |
+|------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|
+| **Speed of Development**     | Faster                                | Slower                              | Balanced                              |
+| **Business Owner Ease**      | More difficult                        | Easier                              | Balanced                              |
+| **Client Focus**             | Lower                                 | Higher                              | Medium                                |
+| **Experience Sharing**       | Higher                                | Lower                               | Medium                                |
+| **Resource Management**      | Harder for business owners            | Easier for business owners          | Balanced                              |
+
+
 ### Key Takeaways
 - **Tech-Oriented Teams:** Fast development, deep expertise, potential resource conflicts.
 - **Product-Oriented Teams:** Client-focused, slower development, requires coordination.
 - **Middle Team:** Bridges business and tech, manages resources, needs clear communication.
 
 Choosing the right team structure can make a significant difference in project outcomes. Align your team structure with your business goals to achieve better efficiency and success.
+
