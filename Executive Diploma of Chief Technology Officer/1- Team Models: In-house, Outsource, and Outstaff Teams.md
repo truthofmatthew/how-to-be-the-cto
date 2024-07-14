@@ -44,4 +44,11 @@
 5. **Cost Efficiency:** Analyze the cost efficiency of each team model.
 6. **Long-term Planning:** Outsource and outstaff options may require long-term planning and more fixed OPEX/CAPEX.
 
-At any option, you need to build united, closely working teams.
+### Key Points from Detailed Discussion:
+- **Understanding Core Expertise:** It is crucial to identify whether your company's core expertise is in IT. For IT-centric businesses, relying heavily on outsourcing can lead to sharing critical knowledge and building expertise outside the company. For example, banks are traditionally seen as financial companies, but in the current world, their main expertise lies in IT, with competitors like Apple Pay and Google Pay. Similarly, a restaurant network focusing on operational excellence might find its core business lies in modern IT systems for ordering and process management.
+- **Motivation and Team Values:** In-house and outstaff teams tend to share company values and show higher motivation due to alignment with the company's goals and culture.
+- **Cost and Efficiency:** In-house teams can provide better cost efficiency and motivation but require careful long-term planning and management. Outsource options might seem cost-effective initially but can lead to loss of control and expertise.
+- **Control and Confidentiality:** In-house teams offer the highest level of control and confidentiality, while outsource teams carry the risk of shared knowledge and less control over the project's direction.
+- **Unified Teams:** Regardless of the chosen model, fostering a unified team culture where all members, whether in-house, outsource, or outstaff, feel included and motivated is essential for achieving the best results.
+
+At any option, you need to build united, closely working teams to ensure motivation and efficiency.
