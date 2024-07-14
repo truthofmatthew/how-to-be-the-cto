@@ -9,6 +9,18 @@ Identifying and reducing waste in your processes can greatly enhance productivit
 - **Waiting:** Delays due to misaligned planning periods or approval processes.
 - **Defects:** Errors caused by unclear requirements or poor communication.
 
+| Type of Waste | Description |
+|---------------|-------------|
+| **Overproduction** | Development of features that users don't need or overproduction of tasks in the backlog. Needs to support useless functionality, and the obsolescence of tasks (and BRD). |
+| **Waiting** | Delays between stages. |
+| **Transportation** | Task switching, which needs to delete useless code. The risk of conflicts in the code for new tasks and code from not finished and not tested tasks. |
+| **Inventory** | Incomplete or partial work done, conflicts between code of different tasks. |
+| **Over/Incorrect Processing** | Rework due to poor preparation of requirements, rework, retesting, due to lack of clear business and system requirements. |
+| **Unnecessary Movement** | Excess communication due to lack of requirements formalization. Lack of detailed requirements leads to excess communication, subjectivity in interpretation, and difficulties in testing. |
+| **Defects** | Software errors, inoperability, or wrong functionality. |
+| **Unused employee creativity** | Short deadline/lack of time for tasks doesn’t allow improvement in the quality of requirements or realization, generating volume, not quality of functionality. |
+
+#### Types of Wastes at Software Development
 #### Improvement Strategies
 Implementing effective strategies can help minimize these wastes and improve your development process:
 
@@ -27,4 +39,20 @@ Consider a software company struggling with frequent rework due to unclear requi
 - **Use feedback and collaboration:** Encourage regular interaction and feedback.
 - **Clear requirements and proper testing:** Define requirements clearly and test thoroughly.
 
-Applying Lean Six Sigma principles in software development can lead to more efficient processes, higher-quality products, and better team collaboration.
+### Analysis and Practical Insights
+The case study shows that aligning planning periods and improving requirement clarity can significantly reduce waste. For instance, by synchronizing the planning periods of different teams, the company could avoid delays and reduce rework. The use of prototypes and detailed checklists ensured that requirements were well understood and met, thus reducing errors and improving the overall quality of the software.
+
+| Role | Workload at Team | Workload at Task | Difference |
+|------|------------------|------------------|------------|
+| PO   | X%               | Y%               | Z%         |
+| BA   | X%               | Y%               | Z%         |
+| UX/UI| X%               | Y%               | Z%         |
+| Testers| X%             | Y%               | Z%         |
+| System Analysts| X%    | Y%               | Z%         |
+| Developers| X%         | Y%               | Z%         |
+
+#### Roles at Workload and Teams
+By analyzing the roles at each stage and the available resources, the company identified a shortage of Business Analysts and System Analysts, and an excess number of developers. Addressing this imbalance helped in better resource allocation and improved efficiency.
+
+### Conclusion
+Applying Lean Six Sigma principles in software development can lead to more efficient processes, higher-quality products, and better team collaboration. It is essential to identify and reduce waste, align planning periods, encourage feedback and collaboration, and ensure clear requirements and proper testing. These steps will help in achieving a more streamlined and productive development process.
