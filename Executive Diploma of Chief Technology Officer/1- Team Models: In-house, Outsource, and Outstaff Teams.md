@@ -35,3 +35,13 @@
 - **In-house Team:** Good for key IT work. Gives high control and keeps knowledge in the company. Good for long-term goals.
 - **Outsource Team:** Good for non-key or quick projects. Less control and risk of shared knowledge, but fixed costs and quick setup.
 - **Outstaff Team:** Middle ground. More control and closer work with the company. Good for special skills and temporary needs.
+
+### Additional Considerations:
+1. **IT Expertise / Business Expertise:** Determine if your business is tech-based or if IT is a core expertise.
+2. **Motivation:** Assess the motivational factors for each team type.
+3. **Cost of Overtime Work:** Consider the cost implications of overtime work.
+4. **Know-how / Commercial Secret:** Evaluate the importance of retaining know-how and commercial secrets.
+5. **Cost Efficiency:** Analyze the cost efficiency of each team model.
+6. **Long-term Planning:** Outsource and outstaff options may require long-term planning and more fixed OPEX/CAPEX.
+
+At any option, you need to build united, closely working teams.
