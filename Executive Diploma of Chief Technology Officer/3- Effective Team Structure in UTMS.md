@@ -48,7 +48,18 @@ A middle team bridges the gap between business needs and technical implementatio
 - Adds another layer of management.
 - Requires clear communication channels.
 
-#### Example Scenario
+### Platform vs. Product vs. Tech-Oriented Teams
+
+1. **Closer to business or to tech core?**
+2. **Tech/System Analysis Chapter Leaders as link**
+3. **Pro go to business:**
+   - Client-centric approach
+   - Focus on business case
+4. **Pro go to tech:**
+   - Faster and cheaper development
+   - Better alignment of IT practices
+
+**Example Scenario:**
 Imagine you run a software company with multiple projects. You can have a tech-oriented team focusing on infrastructure, ensuring that all products use a consistent and optimized technical base. Meanwhile, product-oriented teams focus on specific apps or services, tailoring them to client needs. A middle team of business analysts coordinates between these groups, ensuring that business goals align with technical capabilities.
 
 ### Team Structures
@@ -68,4 +79,3 @@ Imagine you run a software company with multiple projects. You can have a tech-o
 - **Middle Team:** Bridges business and tech, manages resources, needs clear communication.
 
 Choosing the right team structure can make a significant difference in project outcomes. Align your team structure with your business goals to achieve better efficiency and success.
-
