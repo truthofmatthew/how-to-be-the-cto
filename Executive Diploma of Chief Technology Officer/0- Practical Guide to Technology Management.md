@@ -7,6 +7,15 @@ This guide is for CIOs, CTOs, IT managers, and anyone interested in technology m
 1. **Technology Planning:**
    - Align tech plans with company goals.
    - Use vendor roadmaps and industry benchmarks.
+   - Company Strategy / Products Roadmap 3 Y
+   - Vendors Platforms Roadmap Plan (Core Software, CRM, Digital Platforms, cloud services) / Industry Analysis
+   - Startups Scouting / Open innovations
+   - Product / Service / Platform Model shift = uberization / booking
+   - Baas / Saas = your business as service
+   - Strategic Merge & Acquisition = cheaper buy vendor than buy solution
+   - inHouse vs Purchasing
+   - Scalability
+   - IT strategy and Tech roadmap linked to business activities = calculated ROI for each activity / calculated allocated ROI for platforms and infrastructure.
 
 2. **Development Models:**
    - In-house: High control and motivation.
