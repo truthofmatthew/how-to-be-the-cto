@@ -1,3 +1,19 @@
+### Key Takeaways and Important Points Combined with Metrics by Cohort
+
+#### Key Takeaways and Important Points
+
+- **Cohort Concept**: A cohort is a group of users segmented by the time they first interacted with your business. This helps in understanding user behavior based on when they joined.
+  
+- **Changes Impact Analysis**: Major changes to a product can impact different user cohorts differently. Analyzing metrics immediately after changes might not give a complete picture.
+
+- **User Behavior**: User interactions and perceptions of a product are influenced by their past experiences with it. Legacy users may react differently to changes compared to new users.
+
+- **Cohort Analysis**: This involves comparing the behavior of users who joined at different times to understand how changes impact different user groups. It's a critical tool for avoiding misinterpretations in metrics analysis.
+
+- **Product Management Strategy**: Depending on the priorities, a company might focus on training old users on new features or cater more to new users who adapt quickly to changes.
+
+- **Practical Example**: The example of Yelp's app changes illustrates how different cohorts (old vs. new users) might show varied responses to the same changes, highlighting the importance of considering cohort analysis in decision-making.
+
 ### Metrics by Cohort
 
 #### Overview
