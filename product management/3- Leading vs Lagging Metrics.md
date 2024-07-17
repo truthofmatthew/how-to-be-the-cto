@@ -1,4 +1,4 @@
-### Leading vs Lagging Metrics
+### Leading vs. Lagging Metrics
 
 #### Overview
 This paper explains the difference between leading and lagging metrics. Understanding these types of metrics helps in predicting outcomes and measuring past performance. We will discuss what each type is, how to use them, and give simple examples.
@@ -14,6 +14,46 @@ This paper explains the difference between leading and lagging metrics. Understa
   - Measure past performance.
   - Show the results of actions already taken.
   - Example: Total sales revenue, which shows the result of past sales efforts.
+
+#### Key Takeaways and Important Points
+
+- **Leading vs. Lagging Metrics**:
+  - **Leading Metrics**: Metrics that, when changed, result in a change of another metric. They are predictive and can be acted upon before changes in outcomes occur.
+  - **Lagging Metrics**: Metrics that change as a result of changes to other metrics in the past. They are reflective and show the outcomes of actions taken previously.
+
+- **Interdependence of Metrics**:
+  - Metrics are almost always interdependent. Changes in one metric often lead to changes in another.
+  - Understanding these relationships is crucial for effective monitoring and decision-making.
+
+- **Example of Weight Loss**:
+  - **Lagging Metric**: Weight (a result of past actions).
+  - **Leading Metrics**: Calories consumed and calories burned. Focusing on these can help control the lagging metric.
+
+- **Practical Application in Product Management**:
+  - Monitoring refunds and customer support tickets as lagging metrics can indicate product issues.
+  - Identifying leading metrics (e.g., user feedback, sales metrics) can help predict and prevent issues.
+
+- **Importance of Identifying Relationships**:
+  - Identifying the relationship between leading and lagging metrics helps in proactive management.
+  - For instance, understanding that higher prices might lead to higher expectations and more refunds helps in adjusting strategies accordingly.
+
+- **Agile Product Management**:
+  - Emphasizes the need to identify and monitor leading metrics to enable quicker responses and adjustments.
+  - Encourages deeper investigation into what drives changes in key metrics.
+
+- **Challenges in Metrics Analysis**:
+  - Relationships between metrics are not always clear or straightforward.
+  - Some metrics mysteries may remain unsolved, but continuous investigation is necessary.
+
+- **Churn Rate in SaaS**:
+  - Can be both a leading and a lagging metric.
+  - Lagging in relation to user engagement metrics (session length, interval between sessions).
+  - Understanding its leading indicators can help reduce churn.
+
+- **Final Takeaway**:
+  - Both leading and lagging metrics have their roles.
+  - Monitoring leading metrics allows for proactive changes.
+  - Understanding and mapping the relationships between metrics is essential for effective product management.
 
 #### How to Use Leading and Lagging Metrics
 
