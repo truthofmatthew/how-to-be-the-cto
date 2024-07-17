@@ -32,28 +32,6 @@ Sorting metrics by their origin source allows you to see which channels are most
    - Based on your findings, allocate resources to the most effective sources and make changes to improve underperforming ones.
    - Example: Increase budget for Google Ads and optimize email campaigns to boost engagement.
 
-#### Example: Online Bank
-
-Imagine you work for an online bank called Simple, which has no physical branches. Here’s how you could sort and analyze metrics by origin source:
-
-1. **Identify Origin Sources:**
-   - Users can come from social media ads, search engines, and referral programs.
-
-2. **Select Metrics to Track:**
-   - Track metrics like sign-up rate, number of transactions, and user retention.
-
-3. **Collect Data:**
-   - Use the bank’s analytics tools to gather data on these metrics for each origin source.
-
-4. **Analyze Data:**
-   - Compare sign-up rates and transaction numbers for users coming from social media, search engines, and referrals.
-
-5. **Interpret Results:**
-   - Identify which source brings the most engaged users and generates the most transactions.
-
-6. **Adjust Strategy:**
-   - Invest more in the channels that bring the best users and improve strategies for other channels.
-
 #### Challenges with Origin Source Sorting
 
 - **Data Complexity:** Sorting and analyzing data from multiple sources can be complex.
@@ -68,6 +46,46 @@ Imagine you work for an online bank called Simple, which has no physical branche
 
 #### Conclusion
 Sorting and analyzing metrics by origin source helps to understand the effectiveness of different channels. By identifying sources, selecting key metrics, collecting and analyzing data, you can gain valuable insights to improve your strategy. Avoiding common challenges ensures a more effective and efficient analysis. This approach leads to better resource allocation and improved user acquisition and engagement.
+
+---
+
+### Key Takeaways and Important Points
+
+1. **Understanding Origin Source:**
+   - Different acquisition channels result in different user behaviors.
+   - Sorting metrics by origin source is crucial for understanding changes in key metrics.
+   - Paid channels, organic sources, and social media ads each attract users with varying intent and behaviors.
+
+2. **Impact of Marketing Channels:**
+   - Low intent leads (e.g., Facebook ads) versus high intent leads (e.g., Google search ads) significantly impact conversion rates.
+   - Marketing strategies and segmentation (e.g., income targeting) can affect both conversion rates and average customer value.
+
+3. **Metrics Interpretation:**
+   - Key metrics for products include revenue, average review rating, average minutes consumed, student growth rate, and conversion rate.
+   - Metrics fluctuate due to various factors including marketing efforts, user source, and time of year.
+   - Regular analysis and understanding of these fluctuations help in making informed decisions.
+
+4. **Marketing and Growth:**
+   - Companies grow by finding and exhausting low-scale, niche marketing channels before moving to larger, more challenging ones.
+   - Example of Airbnb using Craigslist initially before moving to paid search and SEO.
+
+5. **Product Review Trends:**
+   - Product reviews can vary widely even without changes in the product itself.
+   - Initial high ratings from loyal customers or early adopters can decline as the product reaches a broader, less targeted audience.
+   - Ratings may increase again once marketing efforts cease and the product is organically discovered by high-intent users.
+
+6. **Conversion Rate Variability:**
+   - Conversion rates can vary drastically on a daily basis due to small, local changes like recommendation widgets, subpage features, or email campaigns.
+   - Different types of users (e.g., search students vs. paid acquisition students) have different conversion rates.
+
+7. **Role of Marketing in User Behavior:**
+   - Marketing campaigns and the origin of users significantly influence product metrics.
+   - Marketers often switch channels due to scale limitations or the need for better metrics.
+   - Each channel switch brings new user behaviors and preferences which impact downstream product metrics.
+
+8. **Coordination with Marketing Team:**
+   - Ensure synchronization with the marketing team to anticipate and understand changes in traffic sources.
+   - Routinely run origin source sorting to maintain clarity on the impact of various acquisition channels on key metrics.
 
 ---
 
