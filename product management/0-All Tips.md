@@ -1,0 +1,3 @@
+- We use metrics as a monitoring tool to see if our strategy is accomplishing what it’s set out to do
+- We always directly tie our baseline and target metrics to one of the major overall business goals for the product, for our period
+- 
